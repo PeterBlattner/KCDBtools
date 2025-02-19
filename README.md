@@ -1,7 +1,7 @@
 # KCDBtools
 Repository that collectes some tools to access the KCDB / SI Digital Framework through their APIs
 
-The following Excle(R) tools are provided:
+The following Excel(R) tools are provided:
 
 - KCDB_query_country.xlsx : Allows to query all the CMCs for a specific area and country
 - KCDB_query_servicesPhysics.xlsx : Allows to query all the CMCs for a given service category in the domain PHYSCIS
